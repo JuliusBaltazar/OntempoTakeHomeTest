@@ -1,0 +1,40 @@
+{
+	"regions": [
+		{
+			"id": 1,
+			"name": "North Island",
+			"branches": [
+				{
+					"id": 101,
+					"name": "Branch A"
+				},
+				{
+					"id": 102,
+					"name": "Branch B"
+				},
+				{
+					"id": 103,
+					"name": "Branch C"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "South Island",
+			"branches": [
+				{
+					"id": 201,
+					"name": "Branch D"
+				},
+				{
+					"id": 202,
+					"name": "Branch E"
+				},
+				{
+					"id": 203,
+					"name": "Branch F"
+				}
+			]
+		}
+	]
+}
